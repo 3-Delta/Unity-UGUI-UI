@@ -20,13 +20,12 @@ UGUI框架
 1. https://github.com/SuperCLine/ui-framework.git
 
 ## 证书：
-MIT License
-
-## 鸣谢：
-Unity
+<a href="https://github.com/3-Delta/Unity-UI/blob/main/LICENSE">MIT License</a></p>
 
 ## SAST Tools
-[PVS-Studio](https://pvs-studio.com/pvs-studio/?utm_source=website&utm_medium=github&utm_campaign=open_source) - static analyzer for C, C++, C#, and Java code.
+[PVS-Studio](https://pvs-studio.com/pvs-studio/?utm_source=website&utm_medium=github&utm_campaign=open_source)- static analyzer for C, C++, C#, and Java code.
+
+[Unity](https://unity.cn/) - 游戏引擎
 
 [JetBrains/Rider](https://www.jetbrains.com/rider/) - Fast & powerful cross-platform .NET IDE.
 
